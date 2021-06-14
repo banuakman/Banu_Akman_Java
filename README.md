@@ -1,7 +1,7 @@
 # Banu Akman - Java Module Challenges
 
 
-## [M1 Challenge: RPGInheritance](https://github.com/banuakman/Banu_Akman_Java/tree/main/M1-Challenge-Akman-Banu)
+## [M1 Challenge](https://github.com/banuakman/Banu_Akman_Java/tree/main/M1-Challenge-Akman-Banu)
 
 This assessment consists of several coding exercises that evaluate my understanding of object-oriented programming in Java.
 
